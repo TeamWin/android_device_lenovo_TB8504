@@ -1,21 +1,24 @@
-TeamWin Recovery Project
+# TWRP Device Tree for Lenovo TAB4 8
 
-Device configuration for Lenovo Tab4 8 (TB-8504X/F)
-=======================================================
+## Spec Sheet
 
-Basic   | Spec Sheet
--------:|:-------------------------------
-CHIPSET | Qualcomm MSM8953 Snapdragon 425
-CPU     | Octa-core 2.0 GHz Cortex-A53
-GPU     | Adreno 506
-Memory  | 4 GB
-Shipped Android Version | Android 7.0 
-Storage | 64 GB
-Battery | 4850 mAh (non-removable)
-Dimensions | 247 x 173 x 7 mm
-Display | 1200 x 1920 pixels 10.1"
-Rear Camera  | 8.0 MP
-Front Camera | 5.0 MP
-Release Date | July 2017
+| Feature                 | Specification                                      |
+| :---------------------- | :------------------------------------------------- |
+| CPU                     | Quad-core 1.4 GHz Cortex-A53                       |
+| Chipset                 | Qualcomm MSM8917 Snapdragon 425                    |
+| GPU                     | Adreno 308                                         |
+| Memory                  | 2GB                                                |
+| Shipped Android Version | 7.1.1                                              |
+| Latest Android Version  | 8.1                                                |
+| Kernel Version          | 3.18                                               |
+| Storage                 | 16 GB                                              |
+| MicroSD                 | Up to 256 GB                                       |
+| Battery                 | Li-Po 4850 mAh (non-removable)                     |
+| Display                 | 1280 x 800 pixels 8.0 (~189 PPI)                   |
+| Rear Camera             | 5 MP                                               |
+| Front Camera            | 2 MP                                               |
+| Release Date            | September 2017                                     |
 
-![Lenovo Tab 4 10 Plus](http://cdn2.gsmarena.com/vv/pics/lenovo/lenovo-tab-4-10-plus.jpg "Lenovo Tab4 10 Plus")
+## Device Picture
+
+![Lenovo TAB4 8](https://d.scdn.gr/images/sku_images/018060/18060391/20170907115031_31cbcbe6.jpeg "Lenovo TAB4 8")
